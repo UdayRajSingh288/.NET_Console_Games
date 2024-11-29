@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\bin\Debug\net8.0\Dice Game.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\bin\Debug\net8.0\Dice Game.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\bin\Debug\net8.0\Dice Game.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\bin\Debug\net8.0\Dice Game.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\bin\Debug\net8.0\Dice Game.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\refint\Dice Game.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\Dice Game.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Dice Game\obj\Debug\net8.0\ref\Dice Game.dll

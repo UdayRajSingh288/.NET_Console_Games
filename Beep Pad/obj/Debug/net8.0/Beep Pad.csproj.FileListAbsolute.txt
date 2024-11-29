@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\bin\Debug\net8.0\Beep Pad.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\bin\Debug\net8.0\Beep Pad.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\bin\Debug\net8.0\Beep Pad.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\bin\Debug\net8.0\Beep Pad.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\bin\Debug\net8.0\Beep Pad.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\refint\Beep Pad.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\Beep Pad.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Beep Pad\obj\Debug\net8.0\ref\Beep Pad.dll

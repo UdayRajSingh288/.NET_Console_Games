@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\bin\Debug\net8.0\Helicopter.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\bin\Debug\net8.0\Helicopter.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\bin\Debug\net8.0\Helicopter.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\bin\Debug\net8.0\Helicopter.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\bin\Debug\net8.0\Helicopter.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\refint\Helicopter.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\Helicopter.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Helicopter\obj\Debug\net8.0\ref\Helicopter.dll

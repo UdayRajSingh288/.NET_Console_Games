@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\bin\Debug\net8.0\Tower Of Hanoi.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\bin\Debug\net8.0\Tower Of Hanoi.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\bin\Debug\net8.0\Tower Of Hanoi.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\bin\Debug\net8.0\Tower Of Hanoi.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\bin\Debug\net8.0\Tower Of Hanoi.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\refint\Tower Of Hanoi.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\Tower Of Hanoi.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Tower Of Hanoi\obj\Debug\net8.0\ref\Tower Of Hanoi.dll

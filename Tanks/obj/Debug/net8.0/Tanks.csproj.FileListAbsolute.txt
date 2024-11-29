@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\bin\Debug\net8.0\Tanks.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\bin\Debug\net8.0\Tanks.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\bin\Debug\net8.0\Tanks.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\bin\Debug\net8.0\Tanks.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\bin\Debug\net8.0\Tanks.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\refint\Tanks.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\Tanks.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Tanks\obj\Debug\net8.0\ref\Tanks.dll

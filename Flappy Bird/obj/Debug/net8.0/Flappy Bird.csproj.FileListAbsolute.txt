@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\bin\Debug\net8.0\Flappy Bird.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\bin\Debug\net8.0\Flappy Bird.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\bin\Debug\net8.0\Flappy Bird.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\bin\Debug\net8.0\Flappy Bird.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\bin\Debug\net8.0\Flappy Bird.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\refint\Flappy Bird.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\Flappy Bird.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Flappy Bird\obj\Debug\net8.0\ref\Flappy Bird.dll

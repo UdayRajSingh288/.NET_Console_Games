@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQKPccPuHHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CaptainSwing817\\projects\\dotnet_games\\Battleship\\Battleship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CaptainSwing817\\.nuget\\packages\\towel\\1.0.40\\towel.1.0.40.nupkg.sha512"
+  ],
+  "logs": []
+}

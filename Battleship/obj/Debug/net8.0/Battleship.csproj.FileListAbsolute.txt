@@ -1,0 +1,17 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\bin\Debug\net8.0\Battleship.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\bin\Debug\net8.0\Battleship.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\bin\Debug\net8.0\Battleship.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\bin\Debug\net8.0\Battleship.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\bin\Debug\net8.0\Battleship.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\bin\Debug\net8.0\Towel.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.csproj.AssemblyReference.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.csproj.Up2Date
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\refint\Battleship.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\Battleship.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Battleship\obj\Debug\net8.0\ref\Battleship.dll

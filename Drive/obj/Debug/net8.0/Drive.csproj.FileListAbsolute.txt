@@ -1,0 +1,14 @@
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\bin\Debug\net8.0\Drive.exe
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\bin\Debug\net8.0\Drive.deps.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\bin\Debug\net8.0\Drive.runtimeconfig.json
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\bin\Debug\net8.0\Drive.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\bin\Debug\net8.0\Drive.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.AssemblyInfoInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.AssemblyInfo.cs
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.csproj.CoreCompileInputs.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\refint\Drive.dll
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.pdb
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\Drive.genruntimeconfig.cache
+C:\Users\CaptainSwing817\projects\dotnet_games\Drive\obj\Debug\net8.0\ref\Drive.dll
